@@ -8,7 +8,7 @@
 
 ```shell
 # Clone the repository
-git clone <repo>
+git clone https://github.com/glego/redmine-nginx-letsencrypt
 
 # Change into the redmine-nginx-letsencrypt directory
 cd ./redmine-nginx-letsencrypt
